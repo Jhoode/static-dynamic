@@ -1,1 +1,1 @@
-# static-dynamic
+# demo-template
